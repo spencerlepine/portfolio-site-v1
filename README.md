@@ -4,10 +4,12 @@ Portfolio site v1 for Spencer Lepine, deploy to with [GitHub Pages](https://page
 
 > **Built:** July 2021
 
-![portfolio v1 screenshot](./SCREENSHOT.png)
-
 ## Technologies
 
 - HTML
 - CSS
 - GitHub Pages
+
+![portfolio v1 screenshot](./SCREENSHOT.png)
+
+![projects v1 screenshot](./PROJECTS_PAGE.png)
